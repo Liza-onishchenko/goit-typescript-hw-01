@@ -29,3 +29,4 @@ const updatedUser = createOrUpdateUser({
   email: "user@mail.com",
   password: "password123",
 });
+export {};

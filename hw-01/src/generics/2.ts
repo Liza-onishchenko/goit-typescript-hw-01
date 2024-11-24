@@ -21,3 +21,4 @@ function compare<
     weight: bottom.weight,
   };
 }
+export {};
